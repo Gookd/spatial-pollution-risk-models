@@ -18,7 +18,13 @@ Les particules en suspension PM10 sont des particules dont le diamètre est inf�
 Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénètrent plus profondément dans l’appareil respiratoire.
 
  
-## Notions de isotropie, anisotropie, variogramme, stationnarité, interpolation, noyaux de covariance, kernel, kriging a intégrer dans le TER
+## Notions à intégrer dans le TER
+* Isotropie/Anisotropie
+* Variogramme
+* Stationnarité
+* Interpolation
+* Noyaux de covariance Kernel (Exponential, Gaussian, Matérn) : décrire comment deux points sont corrélé 
+* Kriging : méthode d'estimation pour estimer la valeur d'un point inconnu en fonction des points observés => utilise la covariance donc kernel 
 
 ## source des datas : 
 https://www.geodair.fr/donnees/consultation
