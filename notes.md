@@ -18,7 +18,7 @@ Les particules en suspension PM10 sont des particules dont le diamètre est inf�
 Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénètrent plus profondément dans l’appareil respiratoire.
 
  
-## Notions de isotropie, variogramme, noyaux de covariance a intégrer dans le TER
+## Notions de isotropie, variogramme, stationnarité, noyaux de covariance a intégrer dans le TER
 
 ## source des datas : 
 https://www.geodair.fr/donnees/consultation
