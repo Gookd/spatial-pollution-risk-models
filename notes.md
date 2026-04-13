@@ -28,3 +28,8 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
 
 ## source des datas : 
 https://www.geodair.fr/donnees/consultation
+
+## bib
+https://desktop.arcgis.com/fr/arcmap/latest/extensions/geostatistical-analyst/choosing-a-lag-size.htm
+https://www.miningdoc.tech/wp-content/uploads/2024/10/05-Geostatistics-Variograms.pdf
+https://vsp.pnnl.gov/help/vsample/Kriging_Variogram.htm
