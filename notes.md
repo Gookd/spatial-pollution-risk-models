@@ -22,9 +22,9 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
 * Isotropie/Anisotropie
 * Variogramme
 * Stationnarité
-* Interpolation
+* Interpolation simple
+* Kriging (interpolation optimale) : méthode d'estimation pour estimer la valeur d'un point inconnu en fonction des points observés => utilise la covariance donc kernel 
 * Noyaux de covariance Kernel (Exponential, Gaussian, Matérn) : décrire comment deux points sont corrélé 
-* Kriging : méthode d'estimation pour estimer la valeur d'un point inconnu en fonction des points observés => utilise la covariance donc kernel 
 
 ## source des datas : 
 https://www.geodair.fr/donnees/consultation
