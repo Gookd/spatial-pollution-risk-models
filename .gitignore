@@ -7,3 +7,7 @@
 *.fdb_latexmk
 *.pdf
 *.synctex(busy)
+*.bbl
+*.blg
+*.lof
+*.lot
