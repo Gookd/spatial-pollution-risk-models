@@ -19,7 +19,14 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
 
  
 ## Notions à intégrer dans le TER
-* Isotropie/Anisotropie
+* Isotropie : Un phénomène est isotrope si son comportement est le même dans toutes les directions.
+ * ➡️ la distance entre deux points suffit à expliquer leur relation
+ * ➡️ la direction n’a aucune importance
+  
+* Anisotropie : Un phénomène est anisotrope si son comportement change selon la direction.
+ *➡️ distance + direction sont importantes
+ *➡️ le phénomène n’est pas homogène dans l’espace
+  
 * Variogramme : "comment la similarité entre deux points diminue avec la distance"
   * Imagine que tu mesures la pollution de l’air en plusieurs points d’une ville :
     * Deux points très proches → valeurs similaires
