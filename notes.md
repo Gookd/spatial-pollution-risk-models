@@ -22,12 +22,13 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
 * Isotropie : Un phénomène est isotrope si son comportement est le même dans toutes les directions.
  * ➡️ la distance entre deux points suffit à expliquer leur relation
  * ➡️ la direction n’a aucune importance
-<br> 
+<br>
+
 * Anisotropie : Un phénomène est anisotrope si son comportement change selon la direction.
  * ➡️ distance + direction sont importantes
  * ➡️ le phénomène n’est pas homogène dans l’espace
+<br>
 
-  
 * Variogramme : "comment la similarité entre deux points diminue avec la distance"
   * Imagine que tu mesures la pollution de l’air en plusieurs points d’une ville :
     * Deux points très proches → valeurs similaires
