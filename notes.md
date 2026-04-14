@@ -47,10 +47,10 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
  * Deux types de stationnarité :
    * Faible : moyenne constante, covariance dépend seulement de la distance => phénomène homogène : la pollution a le même comportement statistique, seules les distances comptent
    * Intrinsèque : variance dépend seulement de h (distance entre 2 points dans l'espace) => la façon dont ça varie est stable, moyenne pas constante et pollution pas la meme partout
-   * 💡 Exemple très parlant
-   * Cas pollution : Centre-ville : 40 µg/m³, Banlieue : 25 µg/m³
-     * ➡️ les niveaux sont différents ❌ (pas stationnaire faible), mais : entre deux points à 1 km → différence faible, entre deux points à 20 km → différence plus grande 👉 ce schéma reste le même partout
-     * ➡️ ça = stationnarité intrinsèque ✅ 
+     * 💡 Exemple très parlant
+     * Cas pollution : Centre-ville : 40 µg/m³, Banlieue : 25 µg/m³
+       * ➡️ les niveaux sont différents ❌ (pas stationnaire faible), mais : entre deux points à 1 km → différence faible, entre deux points à 20 km → différence plus grande 👉 ce schéma reste le même partout
+       * ➡️ ça = stationnarité intrinsèque ✅ 
 <br>
 
 * Interpolation : méthode d'estimation pour estimer la valeur d'un point inconnu en fonction des points observés
