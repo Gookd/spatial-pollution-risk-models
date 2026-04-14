@@ -21,10 +21,14 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
 ## Notions à intégrer dans le TER
 * Isotropie/Anisotropie
 * Variogramme
-* Stationnarité
+* Stationnarité : “Les propriétés statistiques ne changent pas dans l’espace”
+  * Si la structure est stationnaire : le comportement est le même partout seule la distance compte
+  * Si non stationnaire : il y a des zones différentes (ville vs campagne)
+
 * Interpolation : méthode d'estimation pour estimer la valeur d'un point inconnu en fonction des points observés
   * Simple : “Je devine avec une règle simple (souvent géométrique)”
-  * Kriging (interpolation optimale) : “Je prédis avec un modèle statistique basé sur la corrélation spatiale” => utilise la covariance donc kernel 
+  * Kriging (interpolation optimale) : “Je prédis avec un modèle statistique basé sur la corrélation spatiale” => utilise la covariance donc kernel
+    
 * Noyaux de covariance Kernel (Exponential, Gaussian, Matérn) : décrire comment deux points sont corrélé 
 
 ## source des datas : 
