@@ -43,9 +43,10 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
 * Stationnarité : “Les propriétés statistiques ne changent pas dans l’espace”
   * Si la structure est stationnaire : le comportement est le même partout seule la distance compte
   * Si non stationnaire : il y a des zones différentes (ville vs campagne)
+    
  * Deux types de stationnarité :
-  * Faible : moyenne constante, covariance dépend seulement de la distance => phénomène homogène : la pollution a le même comportement statistique, seules les distances comptent
-  * Intrinsèque : variance dépend seulement de h (distance entre 2 points dans l'espace) => la façon dont ça varie est stable, moyenne pas constante et pollution pas la meme partout
+   * Faible : moyenne constante, covariance dépend seulement de la distance => phénomène homogène : la pollution a le même comportement statistique, seules les distances comptent
+   * Intrinsèque : variance dépend seulement de h (distance entre 2 points dans l'espace) => la façon dont ça varie est stable, moyenne pas constante et pollution pas la meme partout
    * 💡 Exemple très parlant
    * Cas pollution : Centre-ville : 40 µg/m³, Banlieue : 25 µg/m³
      * ➡️ les niveaux sont différents ❌ (pas stationnaire faible), mais : entre deux points à 1 km → différence faible, entre deux points à 20 km → différence plus grande 👉 ce schéma reste le même partout
