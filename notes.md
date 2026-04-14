@@ -24,7 +24,7 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
   * Imagine que tu mesures la pollution de l’air en plusieurs points d’une ville :
     * Deux points très proches → valeurs similaires
     * Deux points éloignés → valeurs plus différentes
-👉 Le variogramme quantifie cette idée.
+* 👉 Le variogramme quantifie cette idée.
   
 * Stationnarité : “Les propriétés statistiques ne changent pas dans l’espace”
   * Si la structure est stationnaire : le comportement est le même partout seule la distance compte
