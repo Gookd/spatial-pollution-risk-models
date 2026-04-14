@@ -63,7 +63,17 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
 https://www.geodair.fr/donnees/consultation
 
 ## source ter :
-statics for spatial data de Noel A.Cressie publiée en 1993, présent à l'ENS
+* Statics for spatial data : de Noel A.Cressie publiée en 1993, présent à l'ENS
+  * 👉 LA référence mondiale
+  * ✔️ variogramme
+  * ✔️ stationnarité
+  * ✔️ kriging
+  * ✔️ covariance
+
+* Spatial Econometrics Methods and Models : de Luc Ansellin, présent à l'ENS
+  * ✔️ Moran’s I
+  * ✔️ dépendance spatiale
+  * ✔️ bases théoriques
 ## bib
 https://desktop.arcgis.com/fr/arcmap/latest/extensions/geostatistical-analyst/choosing-a-lag-size.htm
 https://www.miningdoc.tech/wp-content/uploads/2024/10/05-Geostatistics-Variograms.pdf
