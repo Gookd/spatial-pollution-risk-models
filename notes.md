@@ -34,15 +34,18 @@ Les particules en suspension PM2.5 sont inférieur à 2.5 micromètres et pénè
     * Deux points très proches → valeurs similaires
     * Deux points éloignés → valeurs plus différentes
 * 👉 Le variogramme quantifie cette idée.
-  
+<br>
+
 * Stationnarité : “Les propriétés statistiques ne changent pas dans l’espace”
   * Si la structure est stationnaire : le comportement est le même partout seule la distance compte
   * Si non stationnaire : il y a des zones différentes (ville vs campagne)
+<br>
 
 * Interpolation : méthode d'estimation pour estimer la valeur d'un point inconnu en fonction des points observés
   * Simple : “Je devine avec une règle simple (souvent géométrique)”
   * Kriging (interpolation optimale) : “Je prédis avec un modèle statistique basé sur la corrélation spatiale” => utilise la covariance donc kernel
-    
+<br>
+
 * Noyaux de covariance Kernel (Exponential, Gaussian, Matérn) : décrire comment deux points sont corrélé 
 
 ## source des datas : 
