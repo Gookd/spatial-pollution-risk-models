@@ -74,6 +74,9 @@ https://www.geodair.fr/donnees/consultation
   * ✔️ Moran’s I
   * ✔️ dépendance spatiale
   * ✔️ bases théoriques
+ 
+https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1133178/full : application moran sur pollution
+
 ## bib
 https://desktop.arcgis.com/fr/arcmap/latest/extensions/geostatistical-analyst/choosing-a-lag-size.htm
 https://www.miningdoc.tech/wp-content/uploads/2024/10/05-Geostatistics-Variograms.pdf
