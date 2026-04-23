@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 ## Overview
 
