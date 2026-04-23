@@ -91,31 +91,7 @@ An interactive map of PM10 concentrations by monitoring station is available her
 
 ---
 
-## Project Structure
-spatial-pollution-risk-models/
-│
-├── code/
-│   ├── krigeage.ipynb          # Variogram analysis & Universal Kriging
-│   ├── regression.ipynb        # OLS, SAR, SEM models
-│   ├── risk_assessment.ipynb   # Exceedance probability & Spatial VaR
-│   └── carte_pm10.html         # Interactive map
-│
-├── data/
-│   └── data PM10 mean 2025.csv
-│
-└── README.md
 
----
-
-## Dependencies
-
-```bash
-pip install pandas numpy matplotlib scipy geopandas
-pip install pykrige libpysal spreg esda splot
-pip install scikit-learn cartopy requests
-```
-
----
 
 ## References
 
